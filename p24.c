@@ -10,8 +10,8 @@ int main(){
         n/=10;
     }
      if(temp==rev)
-            printf("Plaindrome");
+            printf("Palindrome ");
      else
-          printf("Not Palondrome");
+          printf("Not Palindrome ");
     return 0;
 }
